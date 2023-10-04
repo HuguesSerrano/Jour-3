@@ -5,7 +5,7 @@ function get_angry_dog($nbr) {
     for (;$nbr>0;$nbr=$nbr-1){
         $var = $var. "woof";
     };
-    return ($var. "\nwoof");
+    return ($var. "\n");
 };
 
-//echo get_angry_dog(2);
+//echo get_angry_dog(3);
