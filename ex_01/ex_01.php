@@ -12,5 +12,3 @@ echo($string);
 echo($bool);
 echo($nul);
 */
-
-?>
