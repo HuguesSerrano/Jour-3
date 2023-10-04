@@ -5,4 +5,4 @@ $var=function ($str) {
     return("$str");
 };
 
-echo $var("test");
+//echo $var("test");
